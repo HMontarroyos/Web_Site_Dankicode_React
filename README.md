@@ -5,6 +5,15 @@
 Projeto identico ao Anterior Com excessão da Paginação para as Paginas Sobre e Contato de teste. 
 Recriando o Projeto em React utilizando de Componetização. 
 
+### `npm install`
+
+Para Baixar as Dependências do Projeto 
+
+### `npm start`
+
+Para Inicializar o Projeto 
+Abrir [http://localhost:3000](http://localhost:3000) vizualizar no Navegador. 
+
 ### Ferramentas utilizadas Complementares 
 
 
